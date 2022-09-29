@@ -1,0 +1,32 @@
+body{
+    background-color: #e7e7e7;
+    font: bold 11px tahoma;
+}
+
+#deger{
+    width:300px;
+    height:30px;
+    vertical-align: center;
+    padding-left:20px;
+    border:1px #d2d2d2 solid;
+    
+    
+}
+
+table{
+    border:1px #000 solid;
+    width:100%;
+}
+tr{
+  
+    border: 1px #fff solid;
+}
+#eserAdi{
+    width:550px;
+}
+
+td{width:200px;}
+
+#deger{
+    border-radius: 5px;
+}
